@@ -1,7 +1,13 @@
+
 .App {
   text-align: center;
 }
-
+.show{
+  display: block;
+}
+.not_show{
+  display: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
